@@ -1,3 +1,5 @@
+/* From: https://www.gnu.org/software/cflow/manual/html_node/Source-of-wc-command.html */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdarg.h>
